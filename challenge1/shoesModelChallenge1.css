@@ -1,0 +1,55 @@
+body {
+  font-family: sans-serif;
+  font-size: 12px;
+  border: solid 4px #000000;
+}
+
+.place {
+  font-size: 22px;
+  text-align: center;
+}
+
+.value {
+  font-weight: bold;
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.offer {
+  color: #777;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.more-information:link {
+  color: #000000;
+}
+
+.more-information:visited {
+  color: #000000;
+}
+
+.more-information:hover {
+  text-decoration: none;
+}
+
+.more-information:active {
+  text-decoration: none;
+}
+
+.detail-list {
+  list-style: square;
+}
+
+.cart {
+  background-color: #000000;
+  border: none;
+  color: #ffffff;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.cart:hover {
+  background-color: #ffffff;
+  color: #000000;
+}
