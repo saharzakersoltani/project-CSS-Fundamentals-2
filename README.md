@@ -23,3 +23,13 @@ Welcome to **project-CSS-Fundamentals-2** repository! This project is a collecti
 - **CSS3**: For styling and layout design.
 - **Visual Studio Code**: As the primary code editor.
 - **Live Server**: For local development and testing.
+
+## 🚀 Live Demo  
+You can view the live version of this project here:  
+
+🔗 [Live Demo](https://saharzakersoltani.github.io/project-CSS-Fundamentals-2/)  
+
+Feel free to explore and let me know your thoughts! 😊  
+
+
+
